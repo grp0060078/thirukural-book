@@ -1,0 +1,147 @@
+* {
+
+    padding: 0;
+    margin: 0;
+    background-color:aliceblue;
+}
+.kuralForm {
+    margin: 1%;
+    width: fit-content;
+}
+
+.kuralInputDisplay {
+    border-radius: 10px;
+    width: 450px;
+    padding: 10px;
+    margin-left: 8px;
+    margin-top: 10px;
+    color: rgb(184, 48, 48);
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.kuralInputDiv {
+    display: flex;
+    justify-content: center;
+    height: fit-content;
+    width: 88vw;
+   
+}
+
+.kuralHeading {
+    width: max-content;
+    margin: 0;
+}
+
+.kuralNumber {
+    padding-left: 5px;
+    margin-left: 10px;
+    height: 25px;
+    width: 130px;
+    border: 1px solid rgb(138, 2, 2);
+    border-radius: 6px;
+    box-shadow: 0px 0px 10px rgb(197, 154, 154);
+}
+
+.btnDiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    width: 88vw;
+    height: fit-content;
+    text-align: center;
+}
+
+.submitBtn {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    width: max-content;
+    border-radius: 5px;
+    border: none;
+    background-color: rgba(248, 93, 93, 0.849);
+}
+
+
+.bottomDiv {
+    display: flex;
+    justify-content: center;
+}
+.tamilline {
+    
+    margin: 3px;
+    margin-left: 20px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 18px;
+    color: rgb(5, 98, 180);
+    background-color: rgba(0, 0, 0, 0);
+}
+.tamilline2 {
+    background-color: rgba(0, 0, 0, 0);
+}
+.tamilMeaning {
+    
+    margin-left: 50px;
+    font-size: small;
+    margin-top: 3px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(3, 110, 110);
+
+}
+.tamilMeaningHeading {
+    margin-left: 20px;
+    font-weight: 600;
+    font-size: 15px;
+    ;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0);
+    color: rgb(3, 110, 110);
+}
+.englishKural {
+    /* border: 1px solid black; */
+    padding: 5px;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0);
+
+}
+
+.englishTitle {
+    /* border: 1px solid black; */
+    font-size: x-large;
+    font-weight: bolder;
+    color: rgb(187, 4, 4);
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.englishline {
+    /* border: 1px solid black; */
+    margin-left: 20px;
+    font-size: 20px;
+    margin-top: 30px;
+    font-weight: 500;
+    color: rgb(5, 98, 180);
+    background-color: rgba(0, 0, 0, 0);
+
+}
+
+.englishMeaningHeading {
+    margin-left: 20px;
+    font-weight: 600;
+    font-size: 17px;
+    margin-top: 20px;
+    color: rgb(3, 110, 110);
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.englishMeaning {
+    /* border: 1px solid black; */
+    margin-left: 50px;
+    padding: 10px;
+    margin-bottom: 25px;
+    font-size: medium;
+    color: rgb(3, 110, 110);
+    background-color: rgba(0, 0, 0, 0);
+}
